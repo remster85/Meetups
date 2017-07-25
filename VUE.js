@@ -4,6 +4,7 @@ New York City
 I Heart Radio office
 
 What is a Vue?
+Slides at bit.ly/tessatalks-vue_intro-presentation
 Vue is a very lightweight framework.
 Syntax similar than AngularKS
 Has two-way data flow between
