@@ -1,6 +1,6 @@
 # **ReactJS**  
 @NYCReact  
-7/31/2017  
+`7/31/2017  
 New York City  
 Microsot Technology Center  
 
@@ -10,7 +10,7 @@ Microsot Technology Center
 - enigma.org  
 - https://github.com/enigma-io/generator-enigma  
 
-### JEST  
+~### JEST  
 front end testing library  
 Jennifer Kaplan  
 - Built by facebook  
@@ -28,7 +28,7 @@ github.com/kaloudis
 `npm install react-router-dom --save`  
 or  
 `yarn add react-router-dom`    
-
+-
 
 ### Break  
 Fun Survey 
@@ -53,14 +53,14 @@ me {
 	}
 }
 ```
-It's just json.  
-While query fields are executed in parallel,  
-Mutation fields run in series, one after the other.  
 
-Apollo  
-RealTime  
-Plugin eslint  
-GraphIQL  
+*It's just json.  *
+`While query fields are executed in parallel,  Mutation fields run in series, one after the other.`  
+
+- Apollo  
+- RealTime  
+- Plugin eslint  
+= GraphIQL  
 
 
 ### New in React  
