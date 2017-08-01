@@ -15,6 +15,8 @@ front end testing library
 Jennifer Kaplan
 Built by facebook
 Quickly write tests for static data
+https://github.com/jenniferkaplannyc/intro_to_jest_testing_talk/blob/master/index.html
+
 
 
 React-Router-4
