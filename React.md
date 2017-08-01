@@ -1,8 +1,11 @@
 # **ReactJS**  
 @NYCReact  
-`7/31/2017  
+7/31/2017  
 New York City  
 Microsot Technology Center  
+https://www.meetup.com/ReactNYC/events/240619695/
+[Pictures](https://www.meetup.com/ReactNYC/photos/28052961/) 
+
 
 
 ### Enigma  
@@ -60,7 +63,7 @@ me {
 - Apollo  
 - RealTime  
 - Plugin eslint  
-= GraphIQL  
+- GraphIQL  
 
 
 ### New in React  
