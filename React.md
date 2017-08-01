@@ -1,4 +1,4 @@
-# **ReactJS##**  
+# **ReactJS**  
 @NYCReact  
 7/31/2017  
 New York City  
@@ -65,13 +65,11 @@ GraphIQL
 
 ### New in React  
 Ava   
-- Priority Scheduling  
-- Batched Updated  
-- PWA out of the box  
-
-- react rendering  
-- stack trace  
-
+- Priority Scheduling
+- Batched Updated
+- PWA out of the box
+- react rendering
+- stack trace
 - https://github.com/AvaKathrynShaw/React-16-Demo  
  
 
