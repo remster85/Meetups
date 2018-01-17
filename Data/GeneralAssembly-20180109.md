@@ -1,4 +1,4 @@
-# **Talk Data to Me **  
+# **Talk Data to Me**  
 @General Assembly 
 01/09/2018  
 New York City  
