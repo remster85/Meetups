@@ -9,4 +9,4 @@
 - [Talk Data To me](https://github.com/remster85/Meetups/blob/master/Data/GeneralAssembly-20180109.md) Meetup 01/09/2018  
 - [DataDriven](https://github.com/remster85/Meetups/blob/master/Data/DataDrivenNYC-20180116.md) Meetup 01/16/2018
 - [React](https://www.meetup.com/ReactNYC/events/245504127) Meetup 02/07/2018  
-- [AWS Big Data](https://awsbigdataweeknewyorkfeb2018.splashthat.com/) Meetup 02/07/2018  
+- [AWS Big Data](https://awsbigdataweeknewyorkfeb2018.splashthat.com/) 3 days seminar 02/06/2018- 02/07/2018  
