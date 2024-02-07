@@ -12,6 +12,6 @@
 - [React](https://www.meetup.com/ReactNYC/events/245504127) Meetup 02/07/2018  
 - [AWS Big Data](https://awsbigdataweeknewyorkfeb2018.splashthat.com/) 3 days seminar 02/06/2018- 02/07/2018
 - [Data Driven NYC](https://github.com/remster85/Meetups/blob/master/Data/DataDrivenNYC-20230613.md) - 01/13/2024
-- [Tech Talks NY ~ w/ Cloudflare & Jam.dev](https://github.com/remster85/Other/blob/master/Data/TechTalksNY20240116.md) 1/16/2024
+- [Tech Talks NY ~ w/ Cloudflare & Jam.dev](https://github.com/remster85/Meetups/blob/master/Other/TechTalksNY20240116.md) 1/16/2024
 - [Data Driven NYC](https://github.com/remster85/Meetups/blob/master/Data/DataDrivenNYC-20240130.md) @foursquare 1/30/2024
   
